@@ -218,7 +218,8 @@ def display(dataset,output1='Nil',output2='Nil',output3='Nil',output4='Nil'):
     """
     Displays rows from the computed statistical result. The rows
      are displayed up to the next 5 index, and continues if more
-      result are required to be outputed.
+      result are required to be outputed.When the dataset is empty,
+      the rows prints a message indicating the end of the dataset.
 
     Args:
         (str) output1 - the first column from the computed statistical dataframe to display
