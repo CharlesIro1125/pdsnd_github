@@ -1,12 +1,9 @@
+---
+Title: "Bikeshare project"
+date: 2021-12-3
+output: Markdown_document
+---
 
-### Date created
-
-Date.format(new Date("10 Jan 2011"), "%B %d, %Y")
-
-date: "`r format(Sys.Date(), '%d %B, %Y')`"
-
-
-Include the date you created this project and README file.
 
 ### BIKESHARE USAGE ANALYSIS IN CHICAGO, WASHINGTON AND NEW YORK CITY.
 
@@ -49,7 +46,7 @@ The csv files are made up of column attributes such as.
   "Birthyear",
 ]
 ```  
-But the Washington dataset doesn't include the Gender and Birthyear columns.
+The Washington dataset doesn't include the Gender and Birthyear columns.
 
 ### Environment Set-up
 
@@ -57,7 +54,7 @@ But the Washington dataset doesn't include the Gender and Birthyear columns.
   Python version
     python >= 3.0
 
-  Pandas verion
+  Pandas version
     Pandas >= 0.25
     Run: pip install --upgrade pandas
 
