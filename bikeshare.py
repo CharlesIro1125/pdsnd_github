@@ -109,7 +109,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-    df = pd.read_csv('C:/Users/CHARLES OBINNA IRO/Downloads/Udacity_bikeshare/' + CITY_DATA[city.title()])
+    df = pd.read_csv('C:/XXXXX/XXXXXXXX/XXXXXXXXX/Udacity_bikeshare/' + CITY_DATA[city.title()])
 
     if city.title() != 'Washington':
 

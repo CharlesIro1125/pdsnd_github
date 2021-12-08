@@ -74,6 +74,8 @@ clone this repository into your local repository by running the git command with
 
 `python bikeshare.py`
 
+*Note:
+ you will need the datasets in thesame directory as the bikeshare.py in other to perform analysis.*
 ### Credits
 
 I want to acknowlegde the knowlegde depth provided by **UDACTIY** and **BLACKS IN TECHNOLOGY** to attain this heights in programming for Data Science.
