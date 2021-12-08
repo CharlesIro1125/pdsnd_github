@@ -11,7 +11,7 @@ output: Markdown_document
 ### Description
 The Bikeshare project is an analysis and exploration into the Bikeshare usage in some regions in the United State.
 
-For a better understanding into the mobility of individuals using the rental service in this region. This project analysis the usage in various levels, such as yearly, monthly and daily. These are describe below.
+For a better understanding into the mobility of individuals using the rental service in this region. This project analyses the usage in various levels, such as yearly, monthly and daily. These are describe below.
 
 - It provides insight into the most frequent time of travels within the year, month or day being considered.
 
@@ -22,7 +22,7 @@ For a better understanding into the mobility of individuals using the rental ser
 -  It provides insight into the user type , gender and age. This is key in knowing the type of subscribers who uses the services the most.
 
 ### Files used
-The files used are the csv data files of bikeshare usage in Chicago, New York City and Washington, and the python code file for analysis . This file are defined as
+The files used are the csv data files of bikeshare usage in Chicago, New York City and Washington, and the python code file for analysis . This files are defined as
 
 - [x] chicago.csv
 
