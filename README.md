@@ -73,4 +73,5 @@ clone this repository into your local repository by running the git command with
 
 ```
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+I want to acknowlegde the knowlegde depth provided by **UDACTIY** and **BLACKS IN TECHNOLOGY** to attain this heights in programming for Data Science.
